@@ -13,23 +13,20 @@
 <br />
 <div align="center">
     <a href="https://github.com/csd3345/cybermap-server/">
-	<img src="http://dev01-vm.csd.uoc.gr/logo.webp" alt="cybermap logo">
+	<img src="http://dev01-vm.csd.uoc.gr/logo-only.webp" alt="cybermap logo">
     </a>
     <h3>
-        Real Time Cyber Attack Map
+        Cyber Attacks Map
         <br />
-        Full Stack Application (client and server)
-      </h3>
+        Server
+     </h3>
 </div>
 <div align="center">
-    <a href="https://gitlab.com/j3di/cyber-threat-map">
-        <strong>Explore the docs »</strong>
-    </a>
     <div>
         ·
-        <a href="https://github.com/othneildrew/Best-README-Template">View  Demo</a> ·
-        <a href="https://gitlab.com/j3di/cyber-threat-map/issues">Report Bug</a> ·
-        <a href="https://gitlab.com/j3di/cyber-threat-map/issues">Request Feature</a> ·
+        <a href="http://dev01-vm.csd.uoc.gr">View  Demo</a> ·
+        <a href="https://github.com/csd3345/cybermap-server/issues">Report Bug</a> ·
+        <a href="https://github.com/csd3345/cybermap-server/issues">Request Feature</a> ·
     </div>
 </div>
 

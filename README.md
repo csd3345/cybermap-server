@@ -1,8 +1,3 @@
-[![MIT license](http://img.shields.io/badge/License-MIT-red.svg)](http://opensource.org/licenses/MIT) 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/csd3345/cybermap-server)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/csd3345/cybermap-server/graphs/commit-activity)
-[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=http%3A%2F%2Fdev01-vm.csd.uoc.gr)](http://dev01-vm.csd.uoc.gr)
-
 <!-- MADE WITH PYTHON BADGE  -->
 <div align="center">
 	<a href="https://www.python.org/" alt="made-with-Python"> 
@@ -13,25 +8,29 @@
 <br />
 <div align="center">
     <a href="https://github.com/csd3345/cybermap-server/">
-	<img src="http://dev01-vm.csd.uoc.gr/logo.webp" alt="cybermap logo">
+	<img src="http://dev01-vm.csd.uoc.gr/logo-only.webp" alt="cybermap logo">
     </a>
     <h3>
-        Real Time Cyber Attack Map
+        Cyber Attacks Map
         <br />
-        Full Stack Application (client and server)
-      </h3>
+        Server
+     </h3>
 </div>
 <div align="center">
-    <a href="https://gitlab.com/j3di/cyber-threat-map">
-        <strong>Explore the docs »</strong>
-    </a>
     <div>
         ·
-        <a href="https://github.com/othneildrew/Best-README-Template">View  Demo</a> ·
-        <a href="https://gitlab.com/j3di/cyber-threat-map/issues">Report Bug</a> ·
-        <a href="https://gitlab.com/j3di/cyber-threat-map/issues">Request Feature</a> ·
+        <a href="http://dev01-vm.csd.uoc.gr">View  Demo</a> ·
+        <a href="https://github.com/csd3345/cybermap-server/issues">Report Bug</a> ·
+        <a href="https://github.com/csd3345/cybermap-server/issues">Request Feature</a> ·
     </div>
 </div>
+<br>
+
+[![MIT license](http://img.shields.io/badge/License-MIT-red.svg)](http://opensource.org/licenses/MIT) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/csd3345/cybermap-server)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/csd3345/cybermap-server/graphs/commit-activity)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=http%3A%2F%2Fdev01-vm.csd.uoc.gr)](http://dev01-vm.csd.uoc.gr)
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents

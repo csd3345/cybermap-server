@@ -1,4 +1,7 @@
-[![MIT license](http://img.shields.io/badge/License-MIT-red.svg)](http://opensource.org/licenses/MIT) [![Website dev01-vm.csd.uoc.gr](https://img.shields.io/website-up-down-green-red/http/dev01-vm.csd.uoc.gr.svg)](http://dev01-vm.csd.uoc.gr)
+[![MIT license](http://img.shields.io/badge/License-MIT-red.svg)](http://opensource.org/licenses/MIT) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/csd3345/cybermap-server)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/csd3345/cybermap-server/graphs/commit-activity)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=http%3A%2F%2Fdev01-vm.csd.uoc.gr)](http://dev01-vm.csd.uoc.gr)
 
 <!-- MADE WITH PYTHON BADGE  -->
 <div align="center">
@@ -9,8 +12,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <a href="https://gitlab.com/j3di/cyber-threat-map">
-	<img src="https://i.ibb.co/HT2cpRt/logo-transparent.png" alt="logo" border="0" width="250" height="230">    
+    <a href="https://github.com/csd3345/cybermap-server/">
+	<img src="http://dev01-vm.csd.uoc.gr/logo.webp" alt="logo" border="0" width="250" height="230">    
     </a>
     <h3>
         Real Time Cyber Attack Map

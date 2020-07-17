@@ -51,6 +51,9 @@ class Cybermap(web.Application):
 
 class MainHandler(web.RequestHandler):
     
+    def head(self):
+        pass
+    
     def get(self):
         logger.info(f"New request received: {repr(self.request)}")
         self.render(str(_map_index_page))

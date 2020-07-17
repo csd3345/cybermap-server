@@ -13,7 +13,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/csd3345/cybermap-server/">
-	<img src="http://dev01-vm.csd.uoc.gr/logo.webp" alt="logo" border="0" width="250" height="230">    
+	<img src="http://dev01-vm.csd.uoc.gr/logo.webp" alt="cybermap logo">
     </a>
     <h3>
         Real Time Cyber Attack Map

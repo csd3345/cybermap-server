@@ -9,11 +9,11 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'cybermap-server'
 DESCRIPTION = 'Server for Cyber Attacks Map application'
-URL = 'https://github.com/me/myproject'
+URL = 'https://github.com/csd3345/cybermap-server'
 EMAIL = 'csd3345@csd.uoc.gr'
 AUTHOR = 'Latsis Ilias'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '1.0.1'
+VERSION = '1.0.2'
 
 # What packages are required for this module to be executed?
 REQUIRED = [

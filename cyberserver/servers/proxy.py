@@ -30,9 +30,9 @@ from copy import copy, deepcopy
 from typing import Optional, List, Dict, Any, Set, Union
 from textwrap import dedent
 
-import cybermap.servers.utilities as utilities
-from cybermap.servers.utilities import RedisWatcher
-from cybermap.servers.attacks_generator import AttacksGenerator
+from cyberserver.servers import utilities
+from cyberserver.servers.utilities import RedisWatcher
+from cyberserver.servers import AttacksGenerator
 
 
 _script_path = pathlib.Path(__file__)
@@ -601,7 +601,7 @@ def validate_ip(ctx, param, value: str):
         dir_okay = False
     ),
     metavar = "<File Path>",
-    default = _script_path.parent.joinpath("databases/GeoLite2-City.mmdb"),
+    default = _script_path.parent.parent.joinpath("databases/GeoLite2-City.mmdb"),
     help = "Path to maxmind database"
 )
 # endregion

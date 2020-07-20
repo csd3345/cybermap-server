@@ -10,7 +10,7 @@ from click_help_colors import HelpColorsCommand, HelpColorsGroup
 from typing import Union, Optional
 from math import inf as INFINITE
 
-from . import utilities
+from cyberserver.servers import utilities
 
 
 _script_path = pathlib.Path(__file__)

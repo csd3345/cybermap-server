@@ -22,10 +22,15 @@ meta_data = dict(
         'redis>=3.3.11',
         'aioredis>=1.3.0',
         'Click>=7.0',
+        'click_help_colors',
+        'colored',
+        'cryptography',
+        'options',
         'colorama>=0.4.1',
         'coloredlogs>=10.0',
         'maxminddb>=1.5.1',
         'six>=1.12.0',
+        
     ],
 )
 

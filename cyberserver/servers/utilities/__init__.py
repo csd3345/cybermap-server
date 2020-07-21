@@ -1,7 +1,7 @@
 """
 Utilities package
 
-An opinionated, minimal template for utilities needed for cyber-threat-map
+An opinionated, minimal template for utilities needed for cyberserver
 """
 
 from .redis_watcher import RedisWatcher

@@ -9,7 +9,7 @@ colorama>=0.4.1
 maxminddb>=1.5.1
 coloredlogs>=10.0
 humanfriendly>=4.18
-six>=1.13.0
+six==1.12.0
 
 # for security purposes only
 keyring>=20.0.0

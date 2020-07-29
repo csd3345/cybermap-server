@@ -25,7 +25,7 @@ _script_stem = pathlib.Path(__file__).stem
 _script_name = pathlib.Path(__file__).name
 
 # _map_path = _script_path.parent.parent.joinpath("map")
-_map_path = pathlib.Path("/var/www/cybermap")
+_map_path = pathlib.Path("/srv/www/cybermap")
 _map_index_page = _map_path.joinpath("index.html")
 
 

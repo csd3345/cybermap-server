@@ -29,8 +29,7 @@ meta_data = dict(
         'colorama>=0.4.1',
         'coloredlogs>=10.0',
         'maxminddb>=1.5.1',
-        'six>=1.12.0',
-        
+        'six==1.12.0',
     ],
 )
 
